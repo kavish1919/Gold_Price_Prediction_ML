@@ -6,11 +6,19 @@ Mean Squared Error: 5.6033376174791565
 Mean Absolute Error: 1.3221025453930104
 
 Automated null-value detection
+
 Dynamic correlation mapping (Pearson coefficients)
+
 Volatility profiling through descriptive statistics
+
 Preprocessing
+
 Time-series standardization
+
 Train-test split (80:20) with random state locking
+
 Algorithm: Random Forest Regressor (100 estimators)
+
 Advantage: Native feature importance weighting
+
 Robustness: Built-in resistance to overfitting
