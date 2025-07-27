@@ -2,7 +2,9 @@
 This analytical system employs ensemble learning to forecast gold (GLD) prices by analyzing historical relationships with:  Equity markets (S&amp;P 500 Index)  Crude oil (USO)  Silver (SLV)  Currency markets (EUR/USD).
 
 R squared score :  0.9893764211512027
+
 Mean Squared Error: 5.6033376174791565
+
 Mean Absolute Error: 1.3221025453930104
 
 Automated null-value detection
